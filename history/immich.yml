@@ -1,7 +1,7 @@
 url: $IMMICH_URL
-status: down
-code: 530
-responseTime: 107
-lastUpdated: 2024-09-29T03:41:52.698Z
+status: up
+code: 200
+responseTime: 909
+lastUpdated: 2024-09-29T11:56:17.536Z
 startTime: 2024-09-16T08:59:50.708Z
 generator: Upptime <https://github.com/upptime/upptime>
