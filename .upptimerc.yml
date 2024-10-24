@@ -16,12 +16,12 @@ sites:
     url: $NEXTCLOUD_URL
   - name: Paperless
     url: $PAPERLESS_URL
-  - name: Portfolio
-    url: https://sanni.is-a.dev
   - name: Soduto
     url: $SODUTO_URL
   - name: Vaultwarden
     url: $VAULTWARDEN_URL
+  - name: Velocity Search
+    url: $VELOCITY_URL
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
