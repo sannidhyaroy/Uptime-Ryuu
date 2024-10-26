@@ -46,5 +46,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Uptime Robot
+      href: https://stats.uptimerobot.com/nN3biMmpJX
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
