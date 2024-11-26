@@ -1,7 +1,7 @@
 url: $PAPERLESS_URL
-status: down
-code: 502
-responseTime: 4030
-lastUpdated: 2024-11-26T11:01:49.587Z
+status: up
+code: 200
+responseTime: 1379
+lastUpdated: 2024-11-26T11:54:18.830Z
 startTime: 2024-09-16T09:00:00.558Z
 generator: Upptime <https://github.com/upptime/upptime>
