@@ -4,8 +4,8 @@ repo: Uptime-Ryuu # The name of this repository
 sites:
   - name: Authelia
     url: $AUTH_URL
-  - name: Gitea
-    url: $GITEA_URL
+  #- name: Gitea
+  #  url: $GITEA_URL
   - name: Immich
     url: $IMMICH_URL
   - name: Jellyseerr
