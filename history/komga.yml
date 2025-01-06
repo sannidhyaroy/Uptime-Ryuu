@@ -1,7 +1,7 @@
 url: $KOMGA_URL
-status: up
-code: 200
-responseTime: 898
-lastUpdated: 2025-01-06T09:36:28.131Z
+status: down
+code: 530
+responseTime: 116
+lastUpdated: 2025-01-06T09:54:05.398Z
 startTime: 2024-09-16T08:59:54.589Z
 generator: Upptime <https://github.com/upptime/upptime>
