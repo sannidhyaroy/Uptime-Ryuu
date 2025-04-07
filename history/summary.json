@@ -121,19 +121,19 @@
     "url": "$JELLYSEERR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2464,
-    "timeDay": 2792,
-    "timeWeek": 2475,
-    "timeMonth": 2678,
-    "timeYear": 2464,
+    "time": 2467,
+    "timeDay": 2930,
+    "timeWeek": 2549,
+    "timeMonth": 2691,
+    "timeYear": 2467,
     "dailyMinutesDown": {
-      "2025-04-07": 0
+      "2025-04-07": 7
     }
   },
   {
