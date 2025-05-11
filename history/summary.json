@@ -4,10 +4,10 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authelia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 902,
@@ -15,7 +15,9 @@
     "timeWeek": 861,
     "timeMonth": 860,
     "timeYear": 902,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-11": 2
+    }
   },
   {
     "name": "Immich",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "81.70%",
+    "uptime": "81.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "81.70%",
+    "uptimeYear": "81.73%",
     "time": 793,
     "timeDay": 996,
     "timeWeek": 853,
@@ -128,10 +130,10 @@
     "url": "$JELLYSEERR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2515,
@@ -139,7 +141,9 @@
     "timeWeek": 2864,
     "timeMonth": 2846,
     "timeYear": 2515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-11": 1
+    }
   },
   {
     "name": "Komga",
@@ -226,13 +230,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "90.10%",
-    "uptimeDay": "88.68%",
+    "uptime": "90.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "74.82%",
     "uptimeMonth": "84.64%",
-    "uptimeYear": "90.10%",
+    "uptimeYear": "90.12%",
     "time": 1659,
-    "timeDay": 1653,
+    "timeDay": 1763,
     "timeWeek": 1680,
     "timeMonth": 1827,
     "timeYear": 1659,
@@ -331,11 +335,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paperless",
     "status": "up",
-    "uptime": "89.52%",
+    "uptime": "89.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "89.52%",
+    "uptimeYear": "89.54%",
     "time": 1101,
     "timeDay": 1176,
     "timeWeek": 1458,
@@ -438,10 +442,10 @@
     "url": "$VAULTWARDEN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 871,
@@ -450,6 +454,7 @@
     "timeMonth": 848,
     "timeYear": 871,
     "dailyMinutesDown": {
+      "2025-05-11": 1,
       "2024-12-31": 27,
       "2024-11-07": 20
     }
@@ -459,9 +464,9 @@
     "url": "$VELOCITY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "velocity-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -470,6 +475,8 @@
     "timeWeek": 1533,
     "timeMonth": 1568,
     "timeYear": 1512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-11": 0
+    }
   }
 ]
