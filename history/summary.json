@@ -34,7 +34,7 @@
     "time": 790,
     "timeDay": 678,
     "timeWeek": 660,
-    "timeMonth": 788,
+    "timeMonth": 794,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2025-07-02": 32,
@@ -176,17 +176,17 @@
     "url": "$KOMGA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "komga",
-    "status": "up",
+    "status": "down",
     "uptime": "97.00%",
-    "uptimeDay": "97.79%",
+    "uptimeDay": "97.76%",
     "uptimeWeek": "96.20%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "97.00%",
-    "time": 838,
-    "timeDay": 636,
-    "timeWeek": 709,
-    "timeMonth": 756,
-    "timeYear": 838,
+    "time": 845,
+    "timeDay": 1719,
+    "timeWeek": 861,
+    "timeMonth": 807,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2025-07-02": 32,
       "2025-06-30": 142,
@@ -269,8 +269,7 @@
       "2024-09-26": 924,
       "2024-09-25": 271,
       "2024-09-24": 20,
-      "2024-09-21": 51,
-      "2024-09-20": 18
+      "2024-09-21": 51
     }
   },
   {
@@ -278,17 +277,17 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "90.39%",
-    "uptimeDay": "97.78%",
+    "uptimeDay": "97.76%",
     "uptimeWeek": "96.58%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "90.39%",
-    "time": 1617,
-    "timeDay": 1238,
-    "timeWeek": 1358,
-    "timeMonth": 1433,
-    "timeYear": 1617,
+    "time": 1615,
+    "timeDay": 1121,
+    "timeWeek": 1337,
+    "timeMonth": 1440,
+    "timeYear": 1615,
     "dailyMinutesDown": {
       "2025-07-02": 32,
       "2025-06-30": 104,
@@ -386,8 +385,7 @@
       "2024-10-20": 1328,
       "2024-10-19": 131,
       "2024-10-15": 48,
-      "2024-10-12": 15,
-      "2024-10-10": 16
+      "2024-10-12": 15
     }
   },
   {
@@ -407,7 +405,7 @@
     "timeMonth": 1071,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2025-07-02": 671,
+      "2025-07-02": 689,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
