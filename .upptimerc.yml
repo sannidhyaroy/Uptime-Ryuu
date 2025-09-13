@@ -6,6 +6,8 @@ sites:
     url: $AUTH_URL
   #- name: Gitea
   #  url: $GITEA_URL
+  - name: Home Assistant
+    url: $HOMEASSISTANT_URL
   - name: Immich
     url: $IMMICH_URL
   - name: Jellyseerr
@@ -18,6 +20,8 @@ sites:
     url: $PAPERLESS_URL
   - name: Soduto
     url: $SODUTO_URL
+  - name: Uptime Kuma
+    url: $UPTIMEKUMA_URL
   - name: Vaultwarden
     url: $VAULTWARDEN_URL
   - name: Velocity Search
