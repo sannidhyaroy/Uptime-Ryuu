@@ -6,8 +6,6 @@ sites:
     url: $AUTH_URL
   #- name: Gitea
   #  url: $GITEA_URL
-  - name: Home Assistant
-    url: $HOMEASSISTANT_URL
   - name: Immich
     url: $IMMICH_URL
   - name: Jellyseerr
