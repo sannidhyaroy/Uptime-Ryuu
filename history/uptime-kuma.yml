@@ -1,7 +1,7 @@
 url: $UPTIMEKUMA_URL
-status: down
-code: 530
-responseTime: 112
-lastUpdated: 2025-10-02T07:47:18.035Z
+status: up
+code: 200
+responseTime: 1842
+lastUpdated: 2025-10-02T07:55:23.229Z
 startTime: 2025-09-13T22:50:30.986Z
 generator: Upptime <https://github.com/upptime/upptime>
