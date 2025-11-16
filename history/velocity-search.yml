@@ -1,7 +1,7 @@
 url: $VELOCITY_URL
-status: down
-code: 401
-responseTime: 740
-lastUpdated: 2025-11-16T20:33:18.558Z
+status: up
+code: 200
+responseTime: 1769
+lastUpdated: 2025-11-16T21:26:31.778Z
 startTime: 2024-10-24T15:19:48.303Z
 generator: Upptime <https://github.com/upptime/upptime>
