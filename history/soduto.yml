@@ -1,7 +1,7 @@
 url: $SODUTO_URL
-status: down
-code: 500
-responseTime: 127
-lastUpdated: 2025-11-18T11:33:01.356Z
+status: up
+code: 200
+responseTime: 340
+lastUpdated: 2025-11-18T11:43:48.433Z
 startTime: 2024-09-16T09:00:02.901Z
 generator: Upptime <https://github.com/upptime/upptime>
