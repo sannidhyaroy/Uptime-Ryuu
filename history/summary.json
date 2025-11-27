@@ -27,11 +27,11 @@
     "url": "$IMMICH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "95.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.69%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "94.49%",
     "time": 1334,
     "timeDay": 1734,
@@ -39,6 +39,7 @@
     "timeMonth": 2925,
     "timeYear": 1431,
     "dailyMinutesDown": {
+      "2025-11-27": 5,
       "2025-11-24": 113,
       "2025-11-18": 105,
       "2025-11-17": 86,
@@ -125,8 +126,7 @@
       "2025-01-07": 204,
       "2025-01-06": 19,
       "2025-01-04": 65,
-      "2024-12-28": 263,
-      "2024-12-25": 17
+      "2024-12-28": 263
     }
   },
   {
@@ -158,18 +158,19 @@
     "url": "$KOMGA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "komga",
-    "status": "up",
-    "uptime": "95.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
+    "status": "down",
+    "uptime": "95.62%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "94.74%",
-    "time": 1096,
+    "uptimeYear": "94.75%",
+    "time": 1097,
     "timeDay": 1719,
     "timeWeek": 3657,
     "timeMonth": 2990,
     "timeYear": 1120,
     "dailyMinutesDown": {
+      "2025-11-27": 3,
       "2025-11-24": 112,
       "2025-11-18": 90,
       "2025-11-17": 62,
@@ -253,7 +254,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1049,
       "2025-01-13": 65,
-      "2025-01-07": 167
+      "2025-01-07": 149
     }
   },
   {
@@ -261,18 +262,19 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "93.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
+    "status": "down",
+    "uptime": "93.54%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.88%",
     "uptimeMonth": "98.79%",
-    "uptimeYear": "92.22%",
+    "uptimeYear": "92.26%",
     "time": 1810,
     "timeDay": 2289,
     "timeWeek": 4300,
     "timeMonth": 4057,
     "timeYear": 1775,
     "dailyMinutesDown": {
+      "2025-11-27": 2,
       "2025-11-24": 111,
       "2025-11-18": 90,
       "2025-11-17": 61,
@@ -368,8 +370,7 @@
       "2025-02-06": 119,
       "2025-02-02": 21,
       "2025-01-31": 67,
-      "2025-01-27": 62,
-      "2025-01-20": 186
+      "2025-01-27": 62
     }
   },
   {
@@ -377,10 +378,10 @@
     "url": "$PAPERLESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paperless",
-    "status": "up",
-    "uptime": "79.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.91%",
+    "status": "down",
+    "uptime": "79.87%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "82.10%",
     "time": 1510,
@@ -389,6 +390,7 @@
     "timeMonth": 3460,
     "timeYear": 1624,
     "dailyMinutesDown": {
+      "2025-11-27": 0,
       "2025-11-24": 110,
       "2025-11-18": 110,
       "2025-11-17": 60,
