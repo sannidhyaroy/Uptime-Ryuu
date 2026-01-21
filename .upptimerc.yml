@@ -18,8 +18,8 @@ sites:
     url: $PAPERLESS_URL
   - name: Soduto
     url: $SODUTO_URL
-  - name: Uptime Kuma
-    url: $UPTIMEKUMA_URL
+  # - name: Uptime Kuma
+  #   url: $UPTIMEKUMA_URL
   - name: Vaultwarden
     url: $VAULTWARDEN_URL
   - name: Velocity Search
