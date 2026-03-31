@@ -13,7 +13,7 @@
     "time": 860,
     "timeDay": 845,
     "timeWeek": 821,
-    "timeMonth": 889,
+    "timeMonth": 888,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2026-03-30": 23,
@@ -42,7 +42,7 @@
     "time": 1719,
     "timeDay": 1751,
     "timeWeek": 1669,
-    "timeMonth": 1611,
+    "timeMonth": 1619,
     "timeYear": 1901,
     "dailyMinutesDown": {
       "2026-01-24": 43,
@@ -140,7 +140,7 @@
     "time": 2911,
     "timeDay": 3272,
     "timeWeek": 3186,
-    "timeMonth": 3139,
+    "timeMonth": 3147,
     "timeYear": 2988,
     "dailyMinutesDown": {
       "2026-03-06": 46,
@@ -168,7 +168,7 @@
     "time": 1345,
     "timeDay": 1750,
     "timeWeek": 1711,
-    "timeMonth": 1593,
+    "timeMonth": 1603,
     "timeYear": 1539,
     "dailyMinutesDown": {
       "2026-01-24": 44,
@@ -266,7 +266,7 @@
     "time": 2108,
     "timeDay": 3508,
     "timeWeek": 2989,
-    "timeMonth": 2759,
+    "timeMonth": 2767,
     "timeYear": 2353,
     "dailyMinutesDown": {
       "2026-02-18": 70,
@@ -372,7 +372,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paperless",
     "status": "up",
-    "uptime": "84.13%",
+    "uptime": "84.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -380,7 +380,7 @@
     "time": 2030,
     "timeDay": 3361,
     "timeWeek": 2363,
-    "timeMonth": 2325,
+    "timeMonth": 2318,
     "timeYear": 2333,
     "dailyMinutesDown": {
       "2026-01-24": 26,
@@ -499,7 +499,7 @@
     "time": 271,
     "timeDay": 252,
     "timeWeek": 313,
-    "timeMonth": 367,
+    "timeMonth": 373,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-11-18": 105,
@@ -520,7 +520,7 @@
     "time": 848,
     "timeDay": 831,
     "timeWeek": 789,
-    "timeMonth": 854,
+    "timeMonth": 855,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2026-03-06": 45,
@@ -547,7 +547,7 @@
     "time": 1572,
     "timeDay": 1376,
     "timeWeek": 1485,
-    "timeMonth": 1580,
+    "timeMonth": 1575,
     "timeYear": 1598,
     "dailyMinutesDown": {
       "2026-03-04": 81,
