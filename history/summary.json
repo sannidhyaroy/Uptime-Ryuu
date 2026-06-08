@@ -42,17 +42,17 @@
     "url": "$IMMICH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "96.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.56%",
-    "time": 1795,
-    "timeDay": 1567,
-    "timeWeek": 1616,
-    "timeMonth": 1527,
-    "timeYear": 2103,
+    "time": 1796,
+    "timeDay": 1413,
+    "timeWeek": 1571,
+    "timeMonth": 1519,
+    "timeYear": 2108,
     "dailyMinutesDown": {
       "2025-06-09": 278,
       "2025-06-16": 138,
@@ -111,7 +111,8 @@
       "2025-12-25": 19,
       "2026-01-11": 163,
       "2026-01-24": 43,
-      "2026-04-30": 96
+      "2026-04-30": 96,
+      "2026-06-08": 1
     }
   },
   {
@@ -165,7 +166,7 @@
     "timeDay": 1455,
     "timeWeek": 1554,
     "timeMonth": 1497,
-    "timeYear": 1693,
+    "timeYear": 1697,
     "dailyMinutesDown": {
       "2025-06-09": 279,
       "2025-06-16": 45,
@@ -236,16 +237,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "95.53%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.40%",
+    "uptime": "95.50%",
+    "uptimeDay": "79.49%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "95.34%",
     "time": 2383,
     "timeDay": 2426,
     "timeWeek": 2917,
     "timeMonth": 3278,
-    "timeYear": 2564,
+    "timeYear": 2569,
     "dailyMinutesDown": {
       "2025-06-09": 279,
       "2025-06-16": 23,
@@ -312,7 +313,7 @@
       "2026-04-25": 828,
       "2026-04-24": 929,
       "2026-05-03": 62,
-      "2026-06-08": 1
+      "2026-06-08": 295
     }
   },
   {
@@ -321,10 +322,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paperless",
     "status": "down",
-    "uptime": "85.68%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "85.66%",
+    "uptimeDay": "79.51%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "84.30%",
     "time": 2225,
     "timeDay": 2770,
@@ -412,7 +413,7 @@
       "2026-01-24": 26,
       "2026-04-25": 828,
       "2026-04-24": 929,
-      "2026-06-08": 0
+      "2026-06-08": 295
     }
   },
   {
