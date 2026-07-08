@@ -4,16 +4,16 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authelia",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "72.98%",
-    "uptimeWeek": "96.14%",
-    "uptimeMonth": "98.52%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "70.78%",
+    "uptimeWeek": "95.83%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "99.62%",
     "time": 909,
-    "timeDay": 899,
-    "timeWeek": 842,
-    "timeMonth": 1325,
+    "timeDay": 911,
+    "timeWeek": 852,
+    "timeMonth": 1314,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2025-09-28": 22,
@@ -37,7 +37,7 @@
       "2026-06-09": 151,
       "2026-06-11": 106,
       "2026-07-07": 213,
-      "2026-07-08": 176
+      "2026-07-08": 208
     }
   },
   {
@@ -113,17 +113,17 @@
     "url": "$JELLYSEERR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "73.65%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "99.62%",
-    "time": 3114,
-    "timeDay": 4154,
-    "timeWeek": 3796,
-    "timeMonth": 4316,
-    "timeYear": 3292,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "71.44%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "99.61%",
+    "time": 3117,
+    "timeDay": 4149,
+    "timeWeek": 3834,
+    "timeMonth": 4311,
+    "timeYear": 3294,
     "dailyMinutesDown": {
       "2025-09-28": 22,
       "2025-11-08": 20,
@@ -145,7 +145,7 @@
       "2026-06-11": 101,
       "2026-06-14": 64,
       "2026-07-07": 208,
-      "2026-07-08": 171
+      "2026-07-08": 203
     }
   },
   {
@@ -304,7 +304,7 @@
     "uptimeDay": "91.87%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "90.03%",
-    "uptimeYear": "91.64%",
+    "uptimeYear": "91.65%",
     "time": 2393,
     "timeDay": 8174,
     "timeWeek": 4810,
@@ -398,17 +398,17 @@
     "url": "$VAULTWARDEN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "88.44%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "99.73%",
-    "time": 903,
-    "timeDay": 1251,
-    "timeWeek": 1110,
-    "timeMonth": 1103,
-    "timeYear": 953,
+    "uptimeDay": "86.24%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.72%",
+    "time": 904,
+    "timeDay": 1211,
+    "timeWeek": 1117,
+    "timeMonth": 1105,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2025-09-28": 21,
       "2025-11-16": 53,
@@ -425,7 +425,7 @@
       "2026-05-28": 203,
       "2026-06-09": 259,
       "2026-06-11": 97,
-      "2026-07-08": 166
+      "2026-07-08": 198
     }
   },
   {
@@ -433,16 +433,16 @@
     "url": "$VELOCITY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "velocity-search",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "88.78%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "99.77%",
     "time": 1600,
-    "timeDay": 1776,
-    "timeWeek": 1519,
-    "timeMonth": 1537,
+    "timeDay": 1722,
+    "timeWeek": 1538,
+    "timeMonth": 1541,
     "timeYear": 1619,
     "dailyMinutesDown": {
       "2025-09-28": 21,
@@ -457,7 +457,7 @@
       "2026-05-16": 124,
       "2026-06-09": 249,
       "2026-06-11": 92,
-      "2026-07-08": 162
+      "2026-07-08": 193
     }
   }
 ]
