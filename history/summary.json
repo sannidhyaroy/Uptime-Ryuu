@@ -4,14 +4,14 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authelia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "98.32%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "99.56%",
     "time": 914,
-    "timeDay": 863,
+    "timeDay": 835,
     "timeWeek": 878,
     "timeMonth": 852,
     "timeYear": 949,
@@ -40,7 +40,8 @@
       "2026-07-08": 288,
       "2026-07-10": 64,
       "2026-07-16": 114,
-      "2026-07-29": 56
+      "2026-07-29": 56,
+      "2026-07-30": 4
     }
   },
   {
@@ -58,7 +59,7 @@
     "timeDay": 7778,
     "timeWeek": 3626,
     "timeMonth": 2718,
-    "timeYear": 2166,
+    "timeYear": 2167,
     "dailyMinutesDown": {
       "2025-08-02": 99,
       "2025-08-05": 180,
@@ -158,7 +159,7 @@
     "timeDay": 7794,
     "timeWeek": 3617,
     "timeMonth": 2684,
-    "timeYear": 2197,
+    "timeYear": 2198,
     "dailyMinutesDown": {
       "2025-08-02": 97,
       "2025-08-05": 178,
@@ -216,7 +217,7 @@
     "timeDay": 9125,
     "timeWeek": 5187,
     "timeMonth": 4288,
-    "timeYear": 3229,
+    "timeYear": 3231,
     "dailyMinutesDown": {
       "2025-08-02": 96,
       "2025-08-05": 177,
@@ -273,7 +274,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paperless",
     "status": "up",
-    "uptime": "86.32%",
+    "uptime": "86.33%",
     "uptimeDay": "90.90%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.43%",
@@ -282,7 +283,7 @@
     "timeDay": 8784,
     "timeWeek": 4838,
     "timeMonth": 3961,
-    "timeYear": 2908,
+    "timeYear": 2910,
     "dailyMinutesDown": {
       "2025-08-02": 94,
       "2025-08-05": 176,
@@ -368,7 +369,7 @@
     "timeDay": 967,
     "timeWeek": 1136,
     "timeMonth": 1141,
-    "timeYear": 969,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2025-09-28": 21,
       "2025-11-16": 53,
@@ -403,7 +404,7 @@
     "timeDay": 1452,
     "timeWeek": 1534,
     "timeMonth": 1526,
-    "timeYear": 1613,
+    "timeYear": 1614,
     "dailyMinutesDown": {
       "2025-09-28": 21,
       "2025-11-16": 53,
