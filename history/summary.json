@@ -4,15 +4,15 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authelia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "98.40%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.38%",
     "uptimeYear": "99.47%",
     "time": 918,
     "timeDay": 929,
-    "timeWeek": 875,
+    "timeWeek": 874,
     "timeMonth": 868,
     "timeYear": 949,
     "dailyMinutesDown": {
@@ -46,7 +46,8 @@
       "2026-08-03": 210,
       "2026-08-07": 101,
       "2026-08-08": 36,
-      "2026-08-09": 32
+      "2026-08-09": 32,
+      "2026-08-10": 11
     }
   },
   {
@@ -112,12 +113,12 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.44%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.50%",
     "time": 3229,
     "timeDay": 4071,
-    "timeWeek": 3674,
+    "timeWeek": 3708,
     "timeMonth": 4177,
     "timeYear": 3397,
     "dailyMinutesDown": {
@@ -159,7 +160,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "96.26%",
+    "uptimeYear": "96.27%",
     "time": 1825,
     "timeDay": 4573,
     "timeWeek": 2017,
@@ -353,15 +354,15 @@
     "url": "$VAULTWARDEN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.64%",
     "time": 973,
     "timeDay": 1168,
-    "timeWeek": 1122,
+    "timeWeek": 1099,
     "timeMonth": 1873,
     "timeYear": 1045,
     "dailyMinutesDown": {
@@ -384,7 +385,8 @@
       "2026-07-31": 66,
       "2026-08-03": 207,
       "2026-08-07": 91,
-      "2026-08-08": 45
+      "2026-08-08": 45,
+      "2026-08-10": 5
     }
   },
   {
@@ -392,15 +394,15 @@
     "url": "$VELOCITY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "velocity-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.14%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.69%",
-    "time": 1609,
+    "time": 1608,
     "timeDay": 1675,
-    "timeWeek": 1545,
+    "timeWeek": 1521,
     "timeMonth": 1901,
     "timeYear": 1647,
     "dailyMinutesDown": {
@@ -420,7 +422,8 @@
       "2026-07-31": 62,
       "2026-08-03": 206,
       "2026-08-07": 87,
-      "2026-08-08": 40
+      "2026-08-08": 40,
+      "2026-08-10": 0
     }
   }
 ]
