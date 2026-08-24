@@ -4,11 +4,11 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authelia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.40%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "99.43%",
     "time": 968,
     "timeDay": 827,
@@ -50,7 +50,8 @@
       "2026-08-10": 77,
       "2026-08-15": 40,
       "2026-08-20": 23,
-      "2026-08-21": 39
+      "2026-08-21": 39,
+      "2026-08-24": 15
     }
   },
   {
@@ -113,11 +114,11 @@
     "url": "$JELLYSEERR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.49%",
     "time": 3253,
     "timeDay": 3189,
@@ -152,7 +153,8 @@
       "2026-08-03": 208,
       "2026-08-07": 96,
       "2026-08-15": 35,
-      "2026-08-20": 18
+      "2026-08-20": 18,
+      "2026-08-24": 10
     }
   },
   {
@@ -216,7 +218,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "96.01%",
+    "uptime": "96.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
@@ -278,7 +280,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paperless",
     "status": "up",
-    "uptime": "86.80%",
+    "uptime": "86.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
@@ -359,13 +361,13 @@
     "url": "$VAULTWARDEN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "99.63%",
-    "time": 982,
+    "time": 983,
     "timeDay": 1020,
     "timeWeek": 1074,
     "timeMonth": 1796,
@@ -391,7 +393,8 @@
       "2026-08-03": 207,
       "2026-08-07": 91,
       "2026-08-08": 45,
-      "2026-08-10": 71
+      "2026-08-10": 71,
+      "2026-08-24": 5
     }
   },
   {
