@@ -4,16 +4,16 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "authelia",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.29%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "85.51%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.26%",
     "time": 1010,
-    "timeDay": 705,
-    "timeWeek": 846,
-    "timeMonth": 846,
+    "timeDay": 824,
+    "timeWeek": 870,
+    "timeMonth": 870,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2026-02-01": 25,
@@ -56,7 +56,7 @@
       "2026-09-04": 15,
       "2026-09-05": 270,
       "2026-09-11": 211,
-      "2026-11-08": 3
+      "2026-11-08": 209
     }
   },
   {
