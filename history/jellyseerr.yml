@@ -1,7 +1,7 @@
 url: $JELLYSEERR_URL
-status: down
-code: 502
-responseTime: 30922
-lastUpdated: 2026-11-22T17:35:46.250Z
+status: up
+code: 200
+responseTime: 4231
+lastUpdated: 2026-11-22T22:41:14.512Z
 startTime: 2024-09-16T08:59:52.042Z
 generator: Upptime <https://github.com/upptime/upptime>
